@@ -26,6 +26,7 @@ Collate:
   'pbjClust.R'
   'simulationSetup.R'
   'resave.R'
+  'statmap.R'
 Imports:
   abind,
   fslr,
@@ -37,6 +38,5 @@ Imports:
   mgcv
 RoxygenNote: 6.1.0.9000
 Suggests: knitr,
-    rmarkdown,
-    pain21
+    rmarkdown
 VignetteBuilder: knitr
